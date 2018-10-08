@@ -1,0 +1,31 @@
+body{
+    background-color: #080125;
+}
+
+.Header{
+    font-size: 50px;
+    color: #ffae00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.Description , .Footer{
+    font-size: 20px;
+    color: #ffae00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.Languages , .List{
+    color:  #ffae00;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+a{
+    color: #00ffff;
+    font-size: 25px;
+}
+
